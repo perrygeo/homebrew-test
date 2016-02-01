@@ -33,6 +33,7 @@ Which will automatically "tap" my repository
 ## Reference
 
 [Python for Formula Authors](https://github.com/Homebrew/homebrew/blob/master/share/doc/homebrew/Python-for-Formula-Authors.md)
+
 [How to create and maintain a tap](https://github.com/Homebrew/homebrew/blob/master/share/doc/homebrew/How-to-Create-and-Maintain-a-Tap.md)
 
 
