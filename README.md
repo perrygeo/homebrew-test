@@ -12,10 +12,10 @@ as part of the main homebrew repo.
 
 ## Updating mapbox-cli-py
 
-mkvirtualenv brewit
-pip install mapboxcli
-pip install homebrew-pypi-poet
-poet -f mapboxcli > ~/work/homebrew-test/Formula/mapbox.rb
+    mkvirtualenv brewit
+    pip install mapboxcli
+    pip install homebrew-pypi-poet
+    poet -f mapboxcli > ~/work/homebrew-test/Formula/mapbox.rb
 
 ## Installation
 
